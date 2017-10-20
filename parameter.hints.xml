@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="XML" />
+      <blacklist language="YAML" />
+    </blacklists>
+    <option id="php.show.names.for.all.args" value="true" />
+  </component>
+</application>

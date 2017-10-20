@@ -1,0 +1,65 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateCommandLineToolsConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+    <keyboard-shortcut first-keystroke="meta e_with_acute" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+    <keyboard-shortcut first-keystroke="meta i_with_acute" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl u_with_acute" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="FileChooser.GotoProject" />
+  <action id="FindNext" />
+  <action id="HippieCompletion" />
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="Macro.sipka">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Run" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+</keymap>

@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d3b931eb-7591-4cf6-80f1-833f77ac4987" name="psjihlava.dev" url="http://psjihlava.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ec7bc632-aaa8-4f19-9d96-0e4f58b6d01d" name="target-app.dev" url="http://target-app.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="466515aa-04c0-4e7d-8b8c-bb86d7c6f01b" name="spvo.dev" url="http://spvo.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="29720569-1c83-43d7-ad20-568c747da81c" name="icom.dev" url="http://icom.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="59838b80-73ee-4499-a0f5-407ca5d6b164" name="test.dev" url="http://test.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="09796291-41e6-4463-adce-80d250e928f3" name="test2.dev" url="http://test2.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="543cb955-7360-4f33-967b-ce65de3dcda7" name="svetluska.dev" url="http://svetluska.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e63be359-2725-427d-ad1b-8c71c6acf7d3" name="ippolna.dev" url="http://ippolna.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

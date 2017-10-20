@@ -1,0 +1,17 @@
+<templateSet group="PHP">
+  <template name="action" value="/**&#10; * @Route(&quot;$ROUTE$&quot;)&#10; */&#10;public function $NAME$Action()&#10;{&#10;    $END$&#10;}" description="Symfony controller action template" toReformat="false" toShortenFQNames="true">
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="formaction" value="/**&#10; * @Route(&quot;$ROUTE$&quot;)&#10; *&#10; * @param FormRequestInterface $formRequest&#10; *&#10; * @return array&#10; */&#10;public function $NAME$Action(FormRequestInterface$END$ $formRequest)&#10;{&#10;    if ($formRequest-&gt;handle($FORM_TYPE$)) {&#10;    }&#10;&#10;    return [&#10;        'form' =&gt; $formRequest-&gt;createFormView(),&#10;    ];&#10;}" description="Symfony controller form action template" toReformat="false" toShortenFQNames="true">
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FORM_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="sipka">
+      <typing text-keycode="47:0">-</typing>
+      <shortuct text="alt PERIOD" />
+    </macro>
+  </component>
+</application>
