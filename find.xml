@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -32,14 +33,14 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
-      <mask>*.tw</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
