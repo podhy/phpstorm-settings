@@ -25,6 +25,9 @@
       <webServer id="e63be359-2725-427d-ad1b-8c71c6acf7d3" name="ippolna.dev" url="http://ippolna.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="9101d124-135a-48f6-b207-6aec33c47bf4" name="icom.test" url="http://icom.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
