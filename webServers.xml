@@ -28,6 +28,9 @@
       <webServer id="9101d124-135a-48f6-b207-6aec33c47bf4" name="icom.test" url="http://icom.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="0a728cb8-b3dd-4eb7-b901-833ae2a03142" name="moodle.test" url="http://moodle.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
